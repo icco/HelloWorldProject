@@ -12,7 +12,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:inputType="textPersonName"
-            android:text="Name"
             android:ems="10"
             android:id="@+id/editText"
             android:layout_alignParentTop="true"
@@ -28,4 +27,12 @@
             android:layout_below="@+id/editText"
             android:layout_alignRight="@+id/editText"
             android:layout_marginRight="12dp"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/textView"
+            android:layout_centerVertical="true"
+            android:layout_alignLeft="@+id/editText"/>
 </RelativeLayout>

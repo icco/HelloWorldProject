@@ -3,8 +3,9 @@ package org.devcloud.helloworld;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
+import android.view.View;
 
-public class MainActivity extends Activity {
+public class MainActivity extends Activity implements android.view.View.OnClickListener {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -12,6 +13,10 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
     }
 
+    @Override
+    public void onClick(View view) {
+
+    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
