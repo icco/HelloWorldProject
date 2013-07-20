@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1374276166000 403 456a4335ff38eb56a94c00d7f58b96d7a777a871 /Users/nat/Projects/HelloWorldProject/Hello World/build/classes/debug/org/devcloud/helloworld/R$menu.class
+1374276166000 476 39e06ef4723f7fe8bf3d1a688e79e7e735bcd20a /Users/nat/Projects/HelloWorldProject/Hello World/build/classes/debug/org/devcloud/helloworld/R$dimen.class
+1374276166000 355 bae8ca02b99d3df483d51e38d992b259a5b7b347 /Users/nat/Projects/HelloWorldProject/Hello World/build/classes/debug/org/devcloud/helloworld/R$attr.class
+1374276166000 418 43f19f5052e2196f63cc8f9752641fd335220bf0 /Users/nat/Projects/HelloWorldProject/Hello World/build/classes/debug/org/devcloud/helloworld/R$layout.class
+1374276166000 355 9d655cfdc23c605a839dd0334616eb206db2647f /Users/nat/Projects/HelloWorldProject/Hello World/build/classes/debug/org/devcloud/helloworld/BuildConfig.class
+1374276166000 446 12b412765dcb82729f985485ef9e0a0a1f469c59 /Users/nat/Projects/HelloWorldProject/Hello World/build/classes/debug/org/devcloud/helloworld/R$style.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1374276166000 827 dea3b9333ae5e7bee22f7c347d1837a6158ddca0 /Users/nat/Projects/HelloWorldProject/Hello World/build/classes/debug/org/devcloud/helloworld/MainActivity.class
+1374276166000 727 069c26518c3c3fbeb80f3ad0e0cb6785492cd8d2 /Users/nat/Projects/HelloWorldProject/Hello World/build/classes/debug/org/devcloud/helloworld/R.class
+1374276166000 422 365707cbcc437f7119346579412b9392a3967b21 /Users/nat/Projects/HelloWorldProject/Hello World/build/classes/debug/org/devcloud/helloworld/R$drawable.class
+1374276166000 487 a8d652fd03bc5d7ebaf0f0125cd914e6470430b1 /Users/nat/Projects/HelloWorldProject/Hello World/build/classes/debug/org/devcloud/helloworld/R$string.class
+1374276166000 408 20df760fcc76080ca035f5e22e31f36495383a8f /Users/nat/Projects/HelloWorldProject/Hello World/build/classes/debug/org/devcloud/helloworld/R$id.class
